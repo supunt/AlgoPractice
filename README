@@ -1,0 +1,18 @@
+# AlgoPractice
+This is a set of algos that was developed in C++.
+
+1) Biggest sum in a branch of a binary tree.
+2) Check if a number is a power of 2 - If a number is a power of 2, the [(number - 1) & number] is always 0. [ex: 8 --> 1000, 7 --> 111, 7 & 8 --> 0]
+3) Queue using a sigle stack [oneStackQueue.cpp]
+4) Queue using two stacks [twoStackQ.cpp]
+5) Get prime factors of a number [primeFactors.cpp]
+6) Check if a sring is properly braced as a code segment [BraceAnalyzer/*]
+7) Tower of hanoi problem [hanoi.cpp]
+8) Comparison of Fibonacci series calculation [fibo.cpp].
+9) Find minimum common value in two sets of numbers. [findMinCommonVal.cpp]
+10) Check if a number is a prime number [isprime.cpp]
+11) Kadanes Algo to find maximum subarray [kadanes.cpp]
+12) LRU cache [lruc.cpp]
+13) Find minimum pit in a 1D array [min_pit.cpp]
+14) Different types of sort algos [sortAlgos.cpp]
+15) Depth First and Breath First traversal in a graph [traversals.cpp]
